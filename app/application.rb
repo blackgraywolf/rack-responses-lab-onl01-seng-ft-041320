@@ -7,9 +7,7 @@ class Application
 
    if  time < 12
       greeting = "Good Morning!"
-      end 
-      
-      else 
+ else 
         
         greeting = "Good Afternoon!" 
         
